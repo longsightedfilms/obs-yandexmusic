@@ -9,6 +9,7 @@ Primarily i wrote this app for myself, but maybe someone wants this app too. Thi
 
 ### Installing
 You can get compiled binaries here:
+[https://github.com/longsightedfilms/obs-yandexmusic/releases](https://github.com/longsightedfilms/obs-yandexmusic/releases "https://github.com/longsightedfilms/obs-yandexmusic/releases")
 ### Compile from sources
 First, you need to clone repository:
 `git clone "https://github.com/longsightedfilms/obs-yandexmusic/"`
@@ -44,11 +45,12 @@ shortens to:
 0.1 - Initial release
 0.1.1 - Fixed some bugs, added support for several browsers
 0.1.2 - Another fix bugs, add reverse and shorten
-
+### shorten.csv
+An example CSV file for Shorten function. You need to put this file in app root folder.
 ### Known bugs
 - Win32 API detect only current tab name, so it is better to run music in different browser.
 - Maybe bad recognizing window title
 - Currently app detect Yandex Music in brute-force way, so when you try serfing internet, it can write inappropriate name.
 
 ### License
-OBS Yandex Music is licensed under the MIT license
+OBS Yandex Music is licensed under the [MIT license](https://github.com/longsightedfilms/obs-yandexmusic/blob/master/readme.md "MIT license")
