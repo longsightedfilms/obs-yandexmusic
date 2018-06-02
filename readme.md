@@ -52,5 +52,7 @@ An example CSV file for Shorten function. You need to put this file in app root 
 - Maybe bad recognizing window title
 - Currently app detect Yandex Music in brute-force way, so when you try serfing internet, it can write inappropriate name.
 
+### Roadmap
+[Roadmap](https://github.com/longsightedfilms/obs-yandexmusic/blob/master/roadmap.md "Roadmap")
 ### License
 OBS Yandex Music is licensed under the [MIT license](https://github.com/longsightedfilms/obs-yandexmusic/blob/master/readme.md "MIT license")
